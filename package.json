@@ -1,0 +1,19 @@
+{
+  "name": "rstwebapp",
+  "version": "1.0.0",
+  "description": "Generate .rst format file from Microsoft documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
